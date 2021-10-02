@@ -1,0 +1,16 @@
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\bin\Debug\net5.0\TimeZoneList.exe
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\bin\Debug\net5.0\TimeZoneList.deps.json
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\bin\Debug\net5.0\TimeZoneList.runtimeconfig.json
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\bin\Debug\net5.0\TimeZoneList.runtimeconfig.dev.json
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\bin\Debug\net5.0\TimeZoneList.dll
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\bin\Debug\net5.0\TimeZoneList.pdb
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.csproj.AssemblyReference.cache
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.AssemblyInfoInputs.cache
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.AssemblyInfo.cs
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.csproj.CoreCompileInputs.cache
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.dll
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\ref\TimeZoneList.dll
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.pdb
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\TimeZoneList.genruntimeconfig.cache
+C:\Users\previ\source\repos\TimeZoneList\TimeZoneList\obj\Debug\net5.0\refint\TimeZoneList.dll
